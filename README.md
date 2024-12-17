@@ -32,7 +32,7 @@ Clone the Project
 Download the project repository from GitHub:
 
 ```bash
-git clone https://github.com/<your-username>/mqtt-client-c.git
+git clone https://github.com/nima70/mqtt_client_project.git
 cd mqtt-client-c
 ```
 Build the Project
